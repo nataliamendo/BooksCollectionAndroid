@@ -1,0 +1,21 @@
+.classpath
+.project
+.settings/
+target/
+
+#builtapplicationfiles
+*.apk
+*.ap_
+
+#files for the dex VM
+*.dex
+
+#Java Classfiles
+*.class
+
+#generated files
+bin/
+gen/
+
+#local confgiruationfile (sdk path, etc)
+local.properties

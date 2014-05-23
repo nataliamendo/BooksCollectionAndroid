@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Colección de Libros</string>
+    <string name="bSearch">Buscar</string>
+    <string name="header">Colección de Libros</string>
+    <string name="list">LISTADO</string>
+</resources>
